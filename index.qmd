@@ -1,11 +1,18 @@
 ---
-title: "enhamre.github.io"
+title: "Emily Hamre"
+image: IMG_4102.JPG
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/emily-hamre
+    - text: GitHub
+      href: https://github.com/enhamre
+    - text: Email
+      href: emilyhamre@gmail.com
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+        
+# page content excluded for brevity ~
